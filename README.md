@@ -13,7 +13,7 @@ import coding
 
 class Attributes:
 	def __init__(self) -> None:
-		coding.get('skills')
+	    coding.get('skills')
 		
 	def contact(self):
 	    email   = "dragoadri@gmail.com"
@@ -21,18 +21,20 @@ class Attributes:
 	    return email
 
 	def life(self):
-		langs         = ['Spanish', 'English', 'French']
-		nationality = self.langs.remove('French', 'English')
-		age           = 22
+		langs         =  ['Spanish', 'English', 'French']
+		nationality   =  self.langs.remove('French', 'English')
+		age           =  22
 		
 		return langs, nationalities, age
 		
 	def coding(self):
 		langs = {
-			'expert':   ['python','java'],
-			'intermediate': ['sql','javascript','react'],
-			'learning': ['c', 'c#','c++']
+		
+			'expert':        ['python','java'],
+			'intermediate':  ['sql','javascript','react'],
+			'learning':      ['c', 'c#','c++']
 		}
+		
 		specialities  = ['app development', 'python web scratching'. 'backend']
 		environnement = ['vscode', 'pycharm','android studio'.'Eclipse']
 		
@@ -40,9 +42,8 @@ class Attributes:
 		
 	def projects(self):
 		google_play   = ['Party Game', 'Race car game']
-		webSite    = ['selfPortfolio', 'Boostrap templates']
-		MySql = ['Database Apps']
-		
+		webSite       = ['selfPortfolio', 'Boostrap templates']
+		MySql         = ['Database Apps']
 		
 		return google_play, webSite, MySql
 ```
