@@ -7,7 +7,7 @@
 </p>
 
 <p href="" align="center">
-    <img alt="" src=https://github-readme-stats.vercel.app/api/top-langs/?dragoadri=anuraghazra&layout=compact>
+    <img alt="" src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragoadri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)>
 </p>
 
 
