@@ -2,8 +2,12 @@
 <h2 align="center">DRAGODEV <a href="https://dragoadri.github.io/DragoWB/"></h2>
 <!-- BUTTONS -->
 
-<p href="https://discord.gg/onlp" align="center">
+<p align="center">
     <img alt="" src=https://github-readme-stats.vercel.app/api?username=dragoadri&show_icons=true&theme=tokyonight>
+</p>
+
+<p href="" align="center">
+    <img alt="" src=https://github-readme-stats.vercel.app/api/top-langs/?dragoadri=anuraghazra&layout=compact>
 </p>
 
 
@@ -13,26 +17,26 @@ import coding
 
 class Attributes:
 	def __init__(self) -> None:
-	    coding.get('skills')
+		coding.get('skills')
 		
 	def contact(self):
 	    email   = "dragoadri@gmail.com"
-	    return email
+	    
+	    return discord, telegram, proton
 
 	def life(self):
-		langs         =  ['Spanish', 'English', 'French']
-		nationality   =  self.langs.remove('French', 'English')
-		age           =  22
+		langs         = ['Spanish', 'English', 'French']
+		nationality = self.langs.remove('French', 'English')
+		age           = 22
 		
 		return langs, nationalities, age
 		
 	def coding(self):
 		langs = {
-			'expert':        ['python','java'],
-			'intermediate':  ['sql','javascript','react'],
-			'learning':      ['c', 'c#','c++']
+			'expert':   ['python','java'],
+			'intermediate': ['sql','javascript','react'],
+			'learning': ['c', 'c#','c++']
 		}
-		
 		specialities  = ['app development', 'python web scratching'. 'backend']
 		environnement = ['vscode', 'pycharm','android studio'.'Eclipse']
 		
@@ -40,9 +44,9 @@ class Attributes:
 		
 	def projects(self):
 		google_play   = ['Party Game', 'Race car game']
-		webSite       = ['selfPortfolio', 'Boostrap templates']
-		MySql         = ['Database Apps']
+		webSite    = ['selfPortfolio', 'Boostrap templates']
+		MySql = ['Database Apps']
+		
 		
 		return google_play, webSite, MySql
 ```
-
