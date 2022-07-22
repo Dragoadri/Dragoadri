@@ -17,7 +17,6 @@ class Attributes:
 		
 	def contact(self):
 	    email   = "dragoadri@gmail.com"
-	    
 	    return email
 
 	def life(self):
@@ -29,7 +28,6 @@ class Attributes:
 		
 	def coding(self):
 		langs = {
-		
 			'expert':        ['python','java'],
 			'intermediate':  ['sql','javascript','react'],
 			'learning':      ['c', 'c#','c++']
