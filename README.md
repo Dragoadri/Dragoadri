@@ -18,7 +18,7 @@ class Attributes:
 	def contact(self):
 	    email   = "dragoadri@gmail.com"
 	    
-	    return discord, telegram, proton
+	    return email
 
 	def life(self):
 		langs         = ['Spanish', 'English', 'French']
