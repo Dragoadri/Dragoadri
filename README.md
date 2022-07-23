@@ -4,11 +4,10 @@
 
 <p align="center">
     <img alt="" src=https://github-readme-stats.vercel.app/api?username=dragoadri&show_icons=true&theme=tokyonight>
+     <img alt="" src=https://github-readme-stats.vercel.app/api/top-langs/?username=dragoadri&layout=compact>
 </p>
 
-<p href="" align="center">
-    <img alt="" src=https://github-readme-stats.vercel.app/api/top-langs/?username=dragoadri&layout=compact>
-</p>
+
 
 
 <!-- GO CODE -->
@@ -22,14 +21,14 @@ class Attributes:
 	def contact(self):
 	    email   = "dragoadri@gmail.com"
 	    
-	    return discord, telegram, proton
+	    return email
 
 	def life(self):
 		langs         = ['Spanish', 'English', 'French']
 		nationality = self.langs.remove('French', 'English')
-		age           = 22
+		birth_year           = '06/30/22'
 		
-		return langs, nationalities, age
+		return langs, nationalities, birth_year
 		
 	def coding(self):
 		langs = {
