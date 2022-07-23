@@ -19,7 +19,7 @@
         </a>
         <br />
         <p align="center"><strong>Have fun with your friends playing different games.</strong></p>
-      <p align="left">
+      <p align="center">
         <strong align="center"> Technologies && languages used </strong>
         <br/>
         <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="html5" width="40" height="40"/> </a>
