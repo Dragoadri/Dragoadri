@@ -7,15 +7,15 @@
      <img alt="" src=https://github-readme-stats.vercel.app/api/top-langs/?username=dragoadri&layout=compact>
 </p>
 
-<h1 align="center">Projects</h1> 
+<h1 align="center">Projects GOOGLE PLAY</h1> 
 <table>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">PetDog Complete Website</h3>
+      <h3 align="center">After Party APP</h3>
         <br />
-        <a target="_blank" href="https://petdogwebsite.netlify.app">
-            <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img1.jpg" width="100%" alt="PetDog Complete Website"/>
+        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragoadri.alcoapp">
+            <img src="https://lh3.googleusercontent.com/nsmDvRpEJIsMA-eP36Ye_8w_AZ3VULMazQDp_8Xk-ccXr9aPi6kkzlMN-OR-EIMDt08A" width="100%" alt="AfterParty App"/>
         </a>
         <br />
         <p><strong>This is a website to buy PetDog online.</strong></p>
