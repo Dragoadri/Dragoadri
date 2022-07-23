@@ -36,9 +36,6 @@
     
   <a href="https://play.google.com/store/apps/details?id=com.dragoadri.alcoapp" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=APPURL&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-<a href="https://efreshgroceries.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
   </a>      
       </p>
     </td>
