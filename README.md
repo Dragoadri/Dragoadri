@@ -22,7 +22,7 @@
         <p align="center"><strong>Play different games with your friends</strong></p>
       <p align="center">
         <strong> Technologies used </strong>
-        <br/>
+        <br/><br/>
         <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a>
         <a href="" target="_blank" rel="noreferrer"> <img src="https://uvaciberperiodismo.files.wordpress.com/2019/04/aaaf16bd5ddec.png" alt="XML" width="40" height="40"/> </a>
         <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://avatars3.githubusercontent.com/u/124156" alt="gradle" width="40" height="40"/> </a>
@@ -30,7 +30,7 @@
       <p align="center">
         <strong> IDE used </strong>
         <br/>
-        <img src="https://img.shields.io/badge/Atom-00E68A?style=for-the-badge&logo=Atom&logoColor=white">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_Studio_Trademark.svg/2560px-Android_Studio_Trademark.svg.png">
       </p>
       <p align="center">
           
