@@ -21,11 +21,17 @@
         <p align="center"><strong>Have fun with your friends playing different games.</strong></p>
       <p align="center">
         <strong align="center"> Technologies && languages used </strong>
-        <br/>
+        <br/><br/>
         <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="html5" width="40" height="40"/> </a>
         <a href="https://es.wikipedia.org/wiki/Extensible_Markup_Language" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1081/1081840.png" alt="css3" width="40" height="40"/> </a>
         <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://avatars3.githubusercontent.com/u/124156" alt="bootstrap" width="40" height="40"/> </a>
+	     <br/>
+	      <strong>JAVA</strong>
+	      <strong>XML</strong>
+	      <strong>GRADLE</strong>
+
       </p>
+	    
       <p align="left">
         <strong> IDE used </strong>
         <br/>
