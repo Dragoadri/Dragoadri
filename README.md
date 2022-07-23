@@ -36,7 +36,7 @@
         <strong> IDE used </strong>
         <br/>
         <img src="https://img.shields.io/badge/Atom-00E68A?style=for-the-badge&logo=Atom&logoColor=white">
-      </p>
+     
  
           
   <a href="https://github.com/ValentineFernandes/PetDog-Complete-Website" target="_blank">
