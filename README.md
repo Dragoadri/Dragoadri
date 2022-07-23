@@ -29,7 +29,7 @@
       </p>
       <p align="center">
         <strong> IDE used </strong>
-        <br/><br/>
+        <br/>
         <img src="https://okhosting.com/resources/uploads/2016/05/Android-Studio.png" width="110">
       </p>
       <p align="center">
@@ -37,9 +37,8 @@
   <a href="https://play.google.com/store/apps/details?id=com.dragoadri.alcoapp" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=APPURL&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://petdogwebsite.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-  </a>
+
+	      
       </p>
     </td>
 	 <td width="50%" valign="top">
