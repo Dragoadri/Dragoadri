@@ -29,8 +29,8 @@
       </p>
       <p align="center">
         <strong> IDE used </strong>
-        <br/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_Studio_Trademark.svg/2560px-Android_Studio_Trademark.svg.png"  width="80">
+        <br/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_Studio_Trademark.svg/2560px-Android_Studio_Trademark.svg.png"  width="130">
       </p>
       <p align="center">
           
