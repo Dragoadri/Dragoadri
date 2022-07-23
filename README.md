@@ -18,13 +18,13 @@
             <img src="https://lh3.googleusercontent.com/nsmDvRpEJIsMA-eP36Ye_8w_AZ3VULMazQDp_8Xk-ccXr9aPi6kkzlMN-OR-EIMDt08A" width="100%" alt="AfterParty App"/>
         </a>
         <br />
-        <p><strong>This is a website to buy PetDog online.</strong></p>
+        <p><strong>Have fun with your friends playing different games.</strong></p>
       <p align="left">
-        <strong> Technologies used </strong>
+        <strong> Technologies && languages used </strong>
         <br/>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+        <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="html5" width="40" height="40"/> </a>
+        <a href="https://es.wikipedia.org/wiki/Extensible_Markup_Language" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1081/1081840.png" alt="css3" width="40" height="40"/> </a>
+        <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://avatars3.githubusercontent.com/u/124156" alt="bootstrap" width="40" height="40"/> </a>
       </p>
       <p align="left">
         <strong> IDE used </strong>
