@@ -28,9 +28,9 @@
 	   
      
 	    </p> 
-      <p align="left">
+      <p>
         <strong> IDE used </strong>
-        <br/>
+      
         <img src="https://img.shields.io/badge/Atom-00E68A?style=for-the-badge&logo=Atom&logoColor=white">
       </p> 
  
@@ -43,6 +43,8 @@
   </a>
       </p>
     </td>
+	
+	
     <td width="50%" valign="top">
       <h3 align="center">eFresh Groceries Website</h3>
         <br />
