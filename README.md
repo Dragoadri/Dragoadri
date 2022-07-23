@@ -27,7 +27,7 @@
         <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://avatars3.githubusercontent.com/u/124156" alt="bootstrap" width="40" height="40"/> </a>
 	    
 
-      </p>
+     
 	    
       <p align="left">
         <strong> IDE used </strong>
