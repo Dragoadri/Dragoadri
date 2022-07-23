@@ -1,5 +1,5 @@
 <!-- TITLE -->
-<h2 align="center">DRAGODEV <a href="https://dragoadri.github.io/DragoWB/"></h2>
+<h2 align="center">DragoDEV <a href="https://dragoadri.github.io/DragoWB/"></h2>
 <!-- BUTTONS -->
 
 <p align="center">
