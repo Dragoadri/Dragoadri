@@ -30,7 +30,7 @@
       <p align="left">
         <strong> IDE used </strong>
         <br/>
-        <img src="https://img.shields.io/badge/Atom-00E68A?style=for-the-badge&logo=Atom&logoColor=white">
+        <img src="https://okhosting.com/resources/uploads/2016/05/Android-Studio.png" width="140">
       </p>
       <p align="center">
     
