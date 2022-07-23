@@ -27,15 +27,15 @@
         <a href="" target="_blank" rel="noreferrer"> <img src="https://uvaciberperiodismo.files.wordpress.com/2019/04/aaaf16bd5ddec.png" alt="XML" width="40" height="40"/> </a>
         <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://avatars3.githubusercontent.com/u/124156" alt="gradle" width="40" height="40"/> </a>
       </p>
-      <p align="left">
+      <p align="center">
         <strong> IDE used </strong>
-        <br/>
-        <img src="https://okhosting.com/resources/uploads/2016/05/Android-Studio.png" width="140">
+        <br/><br/>
+        <img src="https://okhosting.com/resources/uploads/2016/05/Android-Studio.png" width="110">
       </p>
       <p align="center">
     
-  <a href="https://github.com/ValentineFernandes/PetDog-Complete-Website" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+  <a href="https://play.google.com/store/apps/details?id=com.dragoadri.alcoapp" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=APPURL&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://petdogwebsite.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
