@@ -7,33 +7,32 @@
      <img alt="" src=https://github-readme-stats.vercel.app/api/top-langs/?username=dragoadri&layout=compact>
 </p>
 
-<h1 align="center">Projects GOOGLE PLAY</h1> 
+<h1 align="center">Projects in GOOGLE PLAY</h1> 
 <table>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">After Party APP</h3>
+      <h3 align="center">AFTER PARTY APP</h3>
         <br />
         <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragoadri.alcoapp">
-            <img src="https://lh3.googleusercontent.com/nsmDvRpEJIsMA-eP36Ye_8w_AZ3VULMazQDp_8Xk-ccXr9aPi6kkzlMN-OR-EIMDt08A" width="100%" alt="AfterParty App"/>
+            <img src="https://lh3.googleusercontent.com/nsmDvRpEJIsMA-eP36Ye_8w_AZ3VULMazQDp_8Xk-ccXr9aPi6kkzlMN-OR-EIMDt08A" width="100%" alt="AfterParty"/>
         </a>
         <br />
-        <p align="center"><strong>Have fun with your friends playing different games.</strong></p>
-      <p align="left">
-        <strong align="center"> Technologies && languages used </strong>
-        <br/><br/>
-        <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="html5" width="40" height="40"/> </a>
-        <a href="https://es.wikipedia.org/wiki/Extensible_Markup_Language" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1081/1081840.png" alt="css3" width="40" height="40"/> </a>
-        <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://avatars3.githubusercontent.com/u/124156" alt="bootstrap" width="40" height="40"/> </a>
-	   
-     
-	    </p> 
-      <p>
+	 <br />
+        <p align="center"><strong>Play different games with your friends</strong></p>
+      <p align="center">
+        <strong> Technologies used </strong>
+        <br/>
+        <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a>
+        <a href="" target="_blank" rel="noreferrer"> <img src="https://uvaciberperiodismo.files.wordpress.com/2019/04/aaaf16bd5ddec.png" alt="XML" width="40" height="40"/> </a>
+        <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://avatars3.githubusercontent.com/u/124156" alt="gradle" width="40" height="40"/> </a>
+      </p>
+      <p align="center">
         <strong> IDE used </strong>
-      
+        <br/>
         <img src="https://img.shields.io/badge/Atom-00E68A?style=for-the-badge&logo=Atom&logoColor=white">
-      </p> 
- 
+      </p>
+      <p align="center">
           
   <a href="https://github.com/ValentineFernandes/PetDog-Complete-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
@@ -43,8 +42,6 @@
   </a>
       </p>
     </td>
-	
-	
     <td width="50%" valign="top">
       <h3 align="center">eFresh Groceries Website</h3>
         <br />
