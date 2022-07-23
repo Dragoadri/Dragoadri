@@ -43,14 +43,14 @@
       </p>
     </td>
 	  <td width="50%" valign="top">
-      <h3 align="center">AFTER PARTY APP</h3>
+      <h3 align="center">ROAD SURVIVOR APP</h3>
         <br />
-        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragoadri.alcoapp">
-            <img src="https://lh3.googleusercontent.com/nsmDvRpEJIsMA-eP36Ye_8w_AZ3VULMazQDp_8Xk-ccXr9aPi6kkzlMN-OR-EIMDt08A" width="100%" alt="AfterParty"/>
+        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.drago.roadsurvivor">
+            <img src="https://lh3.googleusercontent.com/0hjJWWuyvWRyjgWxxBfldKW6vcesrZDo8P90XLBfGilo0MdzPqnYL6mkbGGUfVVmVPOl" width="100%" alt="RoadSurvivor"/>
         </a>
         <br />
 	 <br />
-        <p align="center"><strong>Play different games with your friends</strong></p>
+        <p align="center"><strong>Try not to crush! Get coins and buy skins and different items.</strong></p>
       <p align="center">
         <strong> Technologies used </strong>
         <br/><br/>
@@ -65,7 +65,7 @@
       </p>
       <p align="center">
     
-  <a href="https://play.google.com/store/apps/details?id=com.dragoadri.alcoapp" target="_blank">
+  <a href="https://play.google.com/store/apps/details?id=com.drago.roadsurvivor" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=APPURL&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>  
 <a href="https://efreshgroceries.netlify.app" target="_blank">
