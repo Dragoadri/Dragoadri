@@ -35,7 +35,7 @@
       <p align="center">
     
   <a href="https://play.google.com/store/apps/details?id=com.dragoadri.alcoapp" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=APPURL&color=05F718&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://camo.githubusercontent.com/712df35f3e25540aa2ed66e6f7a138fe71a81f0f2cd8590c691f90e9378e660f/687474703a2f2f646576656c6f7065722e616e64726f69642e636f6d2f696d616765732f6272616e642f656e5f67656e657269635f7267625f776f5f34352e706e67"/>
   </a>      
       </p>
     </td>
