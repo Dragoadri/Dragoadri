@@ -10,6 +10,35 @@
 <h1 align="center">Projects in GOOGLE PLAY</h1> 
 <table>
    <tr>
+   <td width="50%" valign="top">
+      <h3 align="center">QR Reader & Creator</h3>
+        <br />
+        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragodev.QReaderGenerator">
+            <img src="https://lh3.googleusercontent.com/w6moO3VmdtjpKJy3dOR3Gc2M_rAtEJTd3f-QqgTe2YeDhJsjfYKZCa7P0TnOQHcN8w" width="100%" alt="QR creator & reader"/>
+        </a>
+        <br />
+	 <br />
+        <p align="center"><strong>QR reader and creator done with JAVA & PYTHON</strong></p>
+      <p align="center">
+        <strong> Technologies used </strong>
+        <br/><br/>
+        <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a>
+	      <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="java" width="40" height="40"/> </a>
+        <a href="" target="_blank" rel="noreferrer"> <img src="https://uvaciberperiodismo.files.wordpress.com/2019/04/aaaf16bd5ddec.png" alt="XML" width="40" height="40"/> </a>
+        <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://avatars3.githubusercontent.com/u/124156" alt="gradle" width="40" height="40"/> </a>
+      </p>
+      <p align="center">
+        <strong> IDE used </strong>
+        <br/>
+        <img src="https://okhosting.com/resources/uploads/2016/05/Android-Studio.png" width="110">
+      </p>
+      <p align="center">
+    
+  <a href="https://play.google.com/store/apps/details?id=com.dragodev.QReaderGenerator" target="_blank">
+    <img src="https://camo.githubusercontent.com/712df35f3e25540aa2ed66e6f7a138fe71a81f0f2cd8590c691f90e9378e660f/687474703a2f2f646576656c6f7065722e616e64726f69642e636f6d2f696d616765732f6272616e642f656e5f67656e657269635f7267625f776f5f34352e706e67"/>
+  </a>        
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">QR Reader & Creator</h3>
         <br />
