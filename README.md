@@ -11,14 +11,14 @@
 <table>
    <tr>
    <td width="50%" valign="top">
-      <h3 align="center">QR Reader & Creator</h3>
+      <h3 align="center">Gasolineras Mas Baratas España</h3>
         <br />
-        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragodev.QReaderGenerator">
-            <img src="https://lh3.googleusercontent.com/w6moO3VmdtjpKJy3dOR3Gc2M_rAtEJTd3f-QqgTe2YeDhJsjfYKZCa7P0TnOQHcN8w" width="100%" alt="QR creator & reader"/>
+        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragodev.gasolinerasbaratasespana">
+            <img src="https://lh3.googleusercontent.com/kXP1vSFwY3pcVtYr3Z_EJe5QEBlb16sM2h5NBr-C6-yWirlkNk7HJY-Da2WhL1dwKsM" width="100%" alt="Gasolineras Mas Baratas España"/>
         </a>
         <br />
 	 <br />
-        <p align="center"><strong>QR reader and creator done with JAVA & PYTHON</strong></p>
+        <p align="center"><strong>Gasolineras mas baratas a tu alrededor y de toda españa</strong></p>
       <p align="center">
         <strong> Technologies used </strong>
         <br/><br/>
@@ -34,7 +34,7 @@
       </p>
       <p align="center">
     
-  <a href="https://play.google.com/store/apps/details?id=com.dragodev.QReaderGenerator" target="_blank">
+  <a href="https://play.google.com/store/apps/details?id=com.dragodev.gasolinerasbaratasespana" target="_blank">
     <img src="https://camo.githubusercontent.com/712df35f3e25540aa2ed66e6f7a138fe71a81f0f2cd8590c691f90e9378e660f/687474703a2f2f646576656c6f7065722e616e64726f69642e636f6d2f696d616765732f6272616e642f656e5f67656e657269635f7267625f776f5f34352e706e67"/>
   </a>        
       </p>
