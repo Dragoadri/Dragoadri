@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,vscode,androidstudio,c,cs,cpp,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,java,vscode,androidstudio,cpp,js,css,html" />
   </a>
 </p>
 <h1 align="center">Projects in GOOGLE PLAY</h1> 
