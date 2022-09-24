@@ -17,7 +17,7 @@
 <table>
    <tr>
    <td width="50%" valign="top">
-      <h3 align="center">Gasolineras Mas Baratas España <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragodev.gasolinerasbaratasespana">
+      <h3 align="center">Gasolineras Mas Baratas España<br /><a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragodev.gasolinerasbaratasespana">
             <img align="center" src="https://play-lh.googleusercontent.com/v4bdnngi2Pf55CVduHNukqCbS1dzCNNKTLwCYGNJZ7KMvH-SRNRWk1boxuvGUoyreuWW=w480-h960" width="20%" alt="Gasolineras Mas Baratas España"/></h3>
         <br />
 	   <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragodev.gasolinerasbaratasespana">
