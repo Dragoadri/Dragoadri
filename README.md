@@ -45,10 +45,9 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">QR Reader & Creator</h3>
+      <h3 align="center"> <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragodev.QReaderGenerator">
+            <img src="https://play-lh.googleusercontent.com/jmA5BawXLFajuevL5fCUL97bMN0YFlZX3TXPQGyGjMPpWEWesMbWXPMXVQmNd6mOY8b6=w480-h960" width="20%" alt=""/><br /><br />QR Reader & Creator</h3>
         <br />
-	    <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragodev.QReaderGenerator">
-            <img src="https://play-lh.googleusercontent.com/jmA5BawXLFajuevL5fCUL97bMN0YFlZX3TXPQGyGjMPpWEWesMbWXPMXVQmNd6mOY8b6=w480-h960" width="20%" alt="Gasolineras Mas Baratas España"/>
         <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragodev.QReaderGenerator">
             <img src="https://lh3.googleusercontent.com/w6moO3VmdtjpKJy3dOR3Gc2M_rAtEJTd3f-QqgTe2YeDhJsjfYKZCa7P0TnOQHcN8w" width="100%" alt="QR creator & reader"/>
         </a>
