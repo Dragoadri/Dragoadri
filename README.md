@@ -1,11 +1,6 @@
 <!-- TITLE -->
 <h1 align="center">DragoDEV <a href="https://dragoadri.github.io/DragoWB/"></h1>
-<!-- BUTTONS -->
 
-<p align="center">
-    <img alt="" src=https://github-readme-stats.vercel.app/api?username=dragoadri&show_icons=true&theme=tokyonight>
-     <img alt="" src=https://github-readme-stats.vercel.app/api/top-langs/?username=dragoadri&layout=compact>
-</p>
 <h2 align="center">Skills </h2>
 
 <p align="center">
