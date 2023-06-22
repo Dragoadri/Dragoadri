@@ -149,7 +149,7 @@ class Attributes:
 	def life(self):
 		langs         = ['Spanish', 'English', 'French']
 		nationality = self.langs.remove('French', 'English')
-		birth_year           = '06/30/22'
+		birth_year           = '06/30/2000'
 		
 		return langs, nationalities, birth_year
 		
