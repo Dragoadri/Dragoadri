@@ -6,7 +6,9 @@
 <img src="https://i.imgur.com/B6LkIut.png" alt="Dragoadri" height="370" />
 </div>
 
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/dragoadri/dragoadri/main/assets/matrix-rain.svg" alt="" width="100%" />
+</div>
 
 <div align="center">
 
@@ -21,7 +23,9 @@
 
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/dragoadri/dragoadri/main/assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## `>` whoami
 
@@ -41,47 +45,61 @@ drago@matrix:~$ whoami --verbose
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dragoadri/dragoadri/output/snake.svg" alt="Snake eating my contributions" width="100%" />
+<img src="https://raw.githubusercontent.com/dragoadri/dragoadri/output/snake.svg" alt="Snake eating my contributions" width="100%" />
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/dragoadri/dragoadri/main/assets/divider.svg" alt="" width="100%" />
+</div>
+
+## `>` ./boot
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/dragoadri/dragoadri/main/assets/boot-sequence.svg" alt="ADRIPILOT boot sequence" width="88%" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/dragoadri/dragoadri/main/assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## `>` stack
 
 <div align="center">
 
 **Core**
-<br/>
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,java,dart,flutter,js,ts,react,nodejs&theme=dark&perline=10" />
 </a>
 
 **Backend · Data · Infra**
-<br/>
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=flask,fastapi,postgres,mysql,sqlite,redis,docker,nginx,linux,ubuntu&theme=dark&perline=10" />
 </a>
 
 **AI · Embedded · Tooling**
-<br/>
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,arduino,raspberrypi,git,githubactions,bash,vscode,androidstudio&theme=dark&perline=10" />
 </a>
 
 <br/>
 
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
-![ZeroMQ](https://img.shields.io/badge/ZeroMQ-DF0000?style=flat-square&logo=zeromq&logoColor=white)
-![CAN Bus](https://img.shields.io/badge/CAN%20Bus-1a1a1a?style=flat-square&logo=canonical&logoColor=00ff41)
-![Sentinel--2](https://img.shields.io/badge/Copernicus%20Sentinel--2-0B3D91?style=flat-square&logo=esa&logoColor=white)
-![Rhino3D](https://img.shields.io/badge/Rhino%203D%20%2B%20RhinoCommon-801010?style=flat-square&logo=rhinoceros&logoColor=white)
-![Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" />
+<img src="https://img.shields.io/badge/ZeroMQ-DF0000?style=flat-square&logo=zeromq&logoColor=white" />
+<img src="https://img.shields.io/badge/CAN%20Bus-1a1a1a?style=flat-square&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Copernicus%20Sentinel--2-0B3D91?style=flat-square&logo=esa&logoColor=white" />
+<img src="https://img.shields.io/badge/Rhino%203D%20%2B%20RhinoCommon-801010?style=flat-square&logo=rhinoceros&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
 
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/dragoadri/dragoadri/main/assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## `>` projects --featured
 
@@ -90,9 +108,10 @@ drago@matrix:~$ whoami --verbose
 <td width="50%" valign="top">
 
 ### 🚘 ADRIPILOT
+
 **Ecosistema para Comma 3X / SunnyPilot**
 
-Firmware + servidor + app móvil para telemetría y control remoto de conducción autónoma. **Trabajo Fin de Grado — 9.4/10.**
+Firmware + servidor + app móvil para telemetría y control remoto de conducción autónoma. **TFG — 9.4/10.**
 
 - 4 modos de control lateral sobre firmware Comma 3X
 - Backend **Flask + PostgreSQL + MQTT**
@@ -105,9 +124,10 @@ Firmware + servidor + app móvil para telemetría y control remoto de conducció
 <td width="50%" valign="top">
 
 ### 🛰️ VIGÍA
+
 **B2G SaaS de teledetección municipal**
 
-Plataforma multi-vertical que cruza imagen satelital **Sentinel-2 (Copernicus/CDSE)** con catastro para detectar obra y edificación no declarada.
+Cruza imagen satelital **Sentinel-2 (Copernicus/CDSE)** con catastro para detectar obra y edificación no declarada.
 
 - Recuperación fiscal de **IBI / ICIO**
 - Pipeline de detección de cambios multitemporal
@@ -121,12 +141,13 @@ Plataforma multi-vertical que cruza imagen satelital **Sentinel-2 (Copernicus/CD
 <td width="50%" valign="top">
 
 ### 🛒 Set Pro — [setpro.es](https://setpro.es)
+
 **E-commerce de pádel construido de cero**
 
 - Frontend **React** + backend **Node**
 - Pasarela **Redsys** integrada
 - Dashboard admin con **analítica RFM** y **RBAC**
-- Integración **FTPS** con almacén (Grupo Dictum)
+- Integración **FTPS** con almacén
 - Feeds de producto en **Google Merchant Center**
 
 `React` `Node.js` `WooCommerce` `Redsys`
@@ -135,6 +156,7 @@ Plataforma multi-vertical que cruza imagen satelital **Sentinel-2 (Copernicus/CD
 <td width="50%" valign="top">
 
 ### 🌐 ORBIT
+
 **Referencia open-source de telemetría IoV**
 
 Implementación de referencia para *Internet of Vehicles*, base de un **paper académico 2026**.
@@ -164,30 +186,58 @@ Implementación de referencia para *Internet of Vehicles*, base de un **paper ac
 
 </div>
 
----
-
-## `>` ls ./google-play
-
 <div align="center">
+<img src="https://raw.githubusercontent.com/dragoadri/dragoadri/main/assets/divider.svg" alt="" width="100%" />
+</div>
 
-| App | Qué hace | Stack |
-|:---:|:---|:---:|
-| <a href="https://play.google.com/store/apps/details?id=com.dragodev.gasolinerasbaratasespana"><img src="https://play-lh.googleusercontent.com/v4bdnngi2Pf55CVduHNukqCbS1dzCNNKTLwCYGNJZ7KMvH-SRNRWk1boxuvGUoyreuWW=w480-h960" width="70"/><br/>**Gasolineras Baratas**</a> | Precios de carburante en tiempo real de toda España, ordenados por cercanía y precio | `Java` `XML` `Gradle` |
-| <a href="https://play.google.com/store/apps/details?id=com.dragodev.QReaderGenerator"><img src="https://play-lh.googleusercontent.com/jmA5BawXLFajuevL5fCUL97bMN0YFlZX3TXPQGyGjMPpWEWesMbWXPMXVQmNd6mOY8b6=w480-h960" width="70"/><br/>**QR Reader &amp; Creator**</a> | Lector y generador de códigos QR con historial y exportación | `Java` `Python` `Gradle` |
-| <a href="https://play.google.com/store/apps/details?id=com.dragoadri.alcoapp"><img src="https://play-lh.googleusercontent.com/6kEPTjvsi5vSEftWxOkRb7Q7t9e7mrm1LjLCmXvk3kYUf7SnTgEY7a1cxXbd6csg_N4=w240-h480" width="70"/><br/>**After Party**</a> | Colección de juegos para grupos, con modos y retos aleatorios | `Java` `XML` `Gradle` |
-| <a href="https://play.google.com/store/apps/details?id=com.drago.roadsurvivor"><img src="https://play-lh.googleusercontent.com/wTzwwBv72EAHPFP0CTyNuUyvKcpyerEuepwZLWxnP_44BndIvVfA3tnacKG6KL0nUt9Z=w480-h960" width="70"/><br/>**Road Survivor**</a> | Arcade endless de esquivar tráfico, con monedas, skins e items | `Java` `XML` `Gradle` |
+<details>
+<summary><h2><code>&gt;</code> ls ./google-play &nbsp;<sub>(desplegar)</sub></h2></summary>
 
 <br/>
 
-<a href="https://play.google.com/store/apps/developer?id=DragoDEV">
-  <img src="https://img.shields.io/badge/Ver%20todas%20en%20Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=00ff41" />
-</a>
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://play.google.com/store/apps/details?id=com.dragodev.gasolinerasbaratasespana">
+<img src="https://play-lh.googleusercontent.com/v4bdnngi2Pf55CVduHNukqCbS1dzCNNKTLwCYGNJZ7KMvH-SRNRWk1boxuvGUoyreuWW=w480-h960" width="72"/><br/>
+<b>Gasolineras Baratas</b></a><br/>
+<sub>Precios de carburante en tiempo real de toda España</sub><br/><br/>
+<code>Java</code> <code>XML</code>
+</td>
+<td align="center" width="25%">
+<a href="https://play.google.com/store/apps/details?id=com.dragodev.QReaderGenerator">
+<img src="https://play-lh.googleusercontent.com/jmA5BawXLFajuevL5fCUL97bMN0YFlZX3TXPQGyGjMPpWEWesMbWXPMXVQmNd6mOY8b6=w480-h960" width="72"/><br/>
+<b>QR Reader &amp; Creator</b></a><br/>
+<sub>Lector y generador de QR con historial</sub><br/><br/>
+<code>Java</code> <code>Python</code>
+</td>
+<td align="center" width="25%">
+<a href="https://play.google.com/store/apps/details?id=com.dragoadri.alcoapp">
+<img src="https://play-lh.googleusercontent.com/6kEPTjvsi5vSEftWxOkRb7Q7t9e7mrm1LjLCmXvk3kYUf7SnTgEY7a1cxXbd6csg_N4=w240-h480" width="72"/><br/>
+<b>After Party</b></a><br/>
+<sub>Juegos para grupos con retos aleatorios</sub><br/><br/>
+<code>Java</code> <code>XML</code>
+</td>
+<td align="center" width="25%">
+<a href="https://play.google.com/store/apps/details?id=com.drago.roadsurvivor">
+<img src="https://play-lh.googleusercontent.com/wTzwwBv72EAHPFP0CTyNuUyvKcpyerEuepwZLWxnP_44BndIvVfA3tnacKG6KL0nUt9Z=w480-h960" width="72"/><br/>
+<b>Road Survivor</b></a><br/>
+<sub>Arcade endless con monedas, skins e items</sub><br/><br/>
+<code>Java</code> <code>XML</code>
+</td>
+</tr>
+</table>
 
+</details>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/dragoadri/dragoadri/main/assets/divider.svg" alt="" width="100%" />
 </div>
 
----
+<details>
+<summary><h2><code>&gt;</code> cat drago.py &nbsp;<sub>(desplegar)</sub></h2></summary>
 
-## `>` cat drago.py
+<br/>
 
 ```python
 from dataclasses import dataclass, field
@@ -217,9 +267,9 @@ class Drago:
 
     def code(self) -> dict[str, list[str]]:
         return {
-            "daily":      ["python", "c", "c++", "dart", "javascript"],
-            "solid":      ["java", "sql", "bash", "react", "node"],
-            "exploring":  ["rust", "cuda", "geospatial ML"],
+            "daily":     ["python", "c", "c++", "dart", "javascript"],
+            "solid":     ["java", "sql", "bash", "react", "node"],
+            "exploring": ["rust", "cuda", "geospatial ML"],
         }
 
     def focus(self) -> list[str]:
@@ -231,7 +281,7 @@ class Drago:
         ]
 
     def offline(self) -> list[str]:
-        return ["calisthenics", "dark dubstep", "restoring a 1997 Rover 620 SI"]
+        return ["calisthenics", "dark dubstep", "restoring a Rover 620 SI"]
 
     def __repr__(self) -> str:
         return f"<{self.alias}: still shipping>"
@@ -241,7 +291,11 @@ if __name__ == "__main__":
     print(Drago())  # <drago: still shipping>
 ```
 
----
+</details>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/dragoadri/dragoadri/main/assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## `>` git log --stat
 
@@ -264,7 +318,9 @@ if __name__ == "__main__":
 
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/dragoadri/dragoadri/main/assets/divider.svg" alt="" width="100%" />
+</div>
 
 ## `>` connect
 
@@ -285,8 +341,10 @@ if __name__ == "__main__":
 
 <br/><br/>
 
-> *"There is a difference between knowing the path and walking the path."*
+<i>"There is a difference between knowing the path and walking the path."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:003b00,100:0d1117&height=140&section=footer" width="100%" />
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/dragoadri/dragoadri/main/assets/matrix-rain.svg" alt="" width="100%" />
 
 </div>
