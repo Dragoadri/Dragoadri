@@ -314,7 +314,6 @@ if __name__ == "__main__":
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dragoadri&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
 
 </div>
 
