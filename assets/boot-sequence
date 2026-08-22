@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" role="img" aria-label="ADRIPILOT boot sequence terminal">
+<defs>
+<filter id="tglow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="900" height="340" rx="12" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="899" height="339" rx="12" fill="none" stroke="#00ff41" stroke-opacity="0.35"/>
+<path d="M0 44 H900" stroke="#00ff41" stroke-opacity="0.18"/>
+<circle cx="26" cy="22" r="6" fill="#ff5f56" opacity="0.9"/>
+<circle cx="46" cy="22" r="6" fill="#ffbd2e" opacity="0.9"/>
+<circle cx="66" cy="22" r="6" fill="#27c93f" opacity="0.9"/>
+<text x="450.0" y="27" text-anchor="middle" font-family="monospace" font-size="13" fill="#8b949e">drago@matrix: ~/adripilot</text>
+<clipPath id="cl0"><rect x="0" y="58" width="0" height="27"><animate attributeName="width" values="0;0;900;900;0" keyTimes="0;0.0000;0.0528;0.8111;1" dur="18.0s" repeatCount="indefinite" begin="0s"/></rect></clipPath>
+<g clip-path="url(#cl0)">
+<text x="26" y="78" font-family="monospace" font-size="15" xml:space="preserve" filter="url(#tglow)">
+<tspan fill="#00ff41">$ </tspan>
+<tspan fill="#c9d1d9">ssh drago@adripilot.local</tspan>
+</text>
+</g>
+<clipPath id="cl1"><rect x="0" y="85" width="0" height="27"><animate attributeName="width" values="0;0;900;900;0" keyTimes="0;0.0833;0.1361;0.8111;1" dur="18.0s" repeatCount="indefinite" begin="0s"/></rect></clipPath>
+<g clip-path="url(#cl1)">
+<text x="26" y="105" font-family="monospace" font-size="15" xml:space="preserve" filter="url(#tglow)">
+<tspan fill="#8b949e">[ </tspan>
+<tspan fill="#00ff41">OK</tspan>
+<tspan fill="#8b949e"> ] </tspan>
+<tspan fill="#c9d1d9">panda firmware  </tspan>
+<tspan fill="#8b949e">..............</tspan>
+<tspan fill="#00ff41">  v1.9.2</tspan>
+</text>
+</g>
+<clipPath id="cl2"><rect x="0" y="112" width="0" height="27"><animate attributeName="width" values="0;0;900;900;0" keyTimes="0;0.1667;0.2194;0.8111;1" dur="18.0s" repeatCount="indefinite" begin="0s"/></rect></clipPath>
+<g clip-path="url(#cl2)">
+<text x="26" y="132" font-family="monospace" font-size="15" xml:space="preserve" filter="url(#tglow)">
+<tspan fill="#8b949e">[ </tspan>
+<tspan fill="#00ff41">OK</tspan>
+<tspan fill="#8b949e"> ] </tspan>
+<tspan fill="#c9d1d9">CAN bus 0/1/2   </tspan>
+<tspan fill="#8b949e">..............</tspan>
+<tspan fill="#00ff41">  500 kbps</tspan>
+</text>
+</g>
+<clipPath id="cl3"><rect x="0" y="139" width="0" height="27"><animate attributeName="width" values="0;0;900;900;0" keyTimes="0;0.2500;0.3028;0.8111;1" dur="18.0s" repeatCount="indefinite" begin="0s"/></rect></clipPath>
+<g clip-path="url(#cl3)">
+<text x="26" y="159" font-family="monospace" font-size="15" xml:space="preserve" filter="url(#tglow)">
+<tspan fill="#8b949e">[ </tspan>
+<tspan fill="#00ff41">OK</tspan>
+<tspan fill="#8b949e"> ] </tspan>
+<tspan fill="#c9d1d9">lateral control </tspan>
+<tspan fill="#8b949e">..............</tspan>
+<tspan fill="#00ff41">  4 modes armed</tspan>
+</text>
+</g>
+<clipPath id="cl4"><rect x="0" y="166" width="0" height="27"><animate attributeName="width" values="0;0;900;900;0" keyTimes="0;0.3333;0.3861;0.8111;1" dur="18.0s" repeatCount="indefinite" begin="0s"/></rect></clipPath>
+<g clip-path="url(#cl4)">
+<text x="26" y="186" font-family="monospace" font-size="15" xml:space="preserve" filter="url(#tglow)">
+<tspan fill="#8b949e">[ </tspan>
+<tspan fill="#00ff41">OK</tspan>
+<tspan fill="#8b949e"> ] </tspan>
+<tspan fill="#c9d1d9">mqtt telemetry  </tspan>
+<tspan fill="#8b949e">..............</tspan>
+<tspan fill="#00ff41">  stream live</tspan>
+</text>
+</g>
+<clipPath id="cl5"><rect x="0" y="193" width="0" height="27"><animate attributeName="width" values="0;0;900;900;0" keyTimes="0;0.4167;0.4694;0.8111;1" dur="18.0s" repeatCount="indefinite" begin="0s"/></rect></clipPath>
+<g clip-path="url(#cl5)">
+<text x="26" y="213" font-family="monospace" font-size="15" xml:space="preserve" filter="url(#tglow)">
+<tspan fill="#8b949e">[ </tspan>
+<tspan fill="#00ff41">OK</tspan>
+<tspan fill="#8b949e"> ] </tspan>
+<tspan fill="#c9d1d9">flutter client  </tspan>
+<tspan fill="#8b949e">..............</tspan>
+<tspan fill="#00ff41">  connected</tspan>
+</text>
+</g>
+<clipPath id="cl6"><rect x="0" y="220" width="0" height="27"><animate attributeName="width" values="0;0;900;900;0" keyTimes="0;0.5000;0.5528;0.8111;1" dur="18.0s" repeatCount="indefinite" begin="0s"/></rect></clipPath>
+<g clip-path="url(#cl6)">
+<text x="26" y="240" font-family="monospace" font-size="15" xml:space="preserve" filter="url(#tglow)">
+<tspan fill="#00ff41">&gt; </tspan>
+<tspan fill="#c9d1d9">engaging openpilot  </tspan>
+<tspan fill="#00ff41">██████████</tspan>
+<tspan fill="#c9d1d9">  100%</tspan>
+</text>
+</g>
+<clipPath id="cl7"><rect x="0" y="247" width="0" height="27"><animate attributeName="width" values="0;0;900;900;0" keyTimes="0;0.5833;0.6361;0.8111;1" dur="18.0s" repeatCount="indefinite" begin="0s"/></rect></clipPath>
+<g clip-path="url(#cl7)">
+<text x="26" y="267" font-family="monospace" font-size="15" xml:space="preserve" filter="url(#tglow)">
+<tspan fill="#00ff41">DRAGO :: </tspan>
+<tspan fill="#c9d1d9">all systems nominal</tspan>
+</text>
+</g>
+<rect x="26" y="281" width="9" height="16" fill="#00ff41"><animate attributeName="opacity" values="1;1;0;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<rect x="0" y="44" width="900" height="1.5" fill="#00ff41" opacity="0.10"><animate attributeName="y" values="44;340" dur="5s" repeatCount="indefinite"/></rect>
+</svg>
