@@ -35,8 +35,7 @@ drago@matrix:~$ whoami --verbose
 
 > **Adrián Cañadas Gallardo** — *"Drago"* · Ingeniero Informático · Madrid, España 🇪🇸
 
-- 🎓 **Graduado en Ingeniería Informática** por la Universidad Europea de Madrid — TFG **9.4/10 (Sobresaliente)**
-- 🧑‍🏫 **Profesor en la UEM** a partir del curso **2026–27** — enseñando lo que llevo haciendo desde 2019 como tutor
+- 🧑‍🏫 **Profesor en la UEM**  — enseñando lo que llevo haciendo desde 2019 como tutor
 - 🔬 **Investigador** en el grupo **SIC-UEM** (Sistemas Inteligentes de Control)
 - 🚗 **+3 años contribuyendo a [comma.ai/openpilot](https://github.com/commaai/openpilot) y [opendbc](https://github.com/commaai/opendbc)** — control lateral, VW brake/EPB, Ford
 - 🛰️ Construyendo **VIGÍA**: teledetección satelital (Copernicus/Sentinel-2) para recuperación fiscal municipal
