@@ -1,174 +1,292 @@
-<!-- TITLE -->
-<h1 align="center">DragoDEV <a href="https://dragoadri.github.io/DragoWB/"></h1>
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     DRAGO · dragoadri · github.com/dragoadri
+     ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">Skills </h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,vscode,androidstudio,cpp,js,css,html" />
-  </a>
-</p>
-<h1 align="center">Projects in GOOGLE PLAY</h1> 
-<table>
-   <tr>
-   <td width="50%" valign="top">
-      <h3 align="center"><a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragodev.gasolinerasbaratasespana">
-            <img align="center" src="https://play-lh.googleusercontent.com/v4bdnngi2Pf55CVduHNukqCbS1dzCNNKTLwCYGNJZ7KMvH-SRNRWk1boxuvGUoyreuWW=w480-h960" width="20%" alt="Gasolineras Mas Baratas España"/><br /><br />Gasolineras Mas Baratas España<br /><br /></h3>
-        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragodev.gasolinerasbaratasespana">
-            <img src="https://play-lh.googleusercontent.com/Ko3C9Q0Hydr9N4E1IhZUgmJk-JLYPc5XkoCyDdEYROfFX4sk8r_gVJLaCwNitwdrka4x=w416-h235" width="100%" alt="Gasolineras Mas Baratas España"/>
-        </a>
-        <br />
-	 <br />
-        <p align="center"><strong>Gasolineras mas baratas a tu alrededor y de toda españa</strong></p>
-      <p align="center">
-        <strong> Technologies used </strong>
-        <br/><br/>
-        <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a>
-        <a href="" target="_blank" rel="noreferrer"> <img src="https://uvaciberperiodismo.files.wordpress.com/2019/04/aaaf16bd5ddec.png" alt="XML" width="40" height="40"/> </a>
-        <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://avatars3.githubusercontent.com/u/124156" alt="gradle" width="40" height="40"/> </a>
-      </p>
-      <p align="center">
-        <strong> IDE used </strong>
-        <br/>
-        <img src="https://okhosting.com/resources/uploads/2016/05/Android-Studio.png" width="110">
-      </p>
-      <p align="center">
-    
-  <a href="https://play.google.com/store/apps/details?id=com.dragodev.gasolinerasbaratasespana" target="_blank">
-    <img src="https://camo.githubusercontent.com/712df35f3e25540aa2ed66e6f7a138fe71a81f0f2cd8590c691f90e9378e660f/687474703a2f2f646576656c6f7065722e616e64726f69642e636f6d2f696d616765732f6272616e642f656e5f67656e657269635f7267625f776f5f34352e706e67"/>
-  </a>        
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"> <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragodev.QReaderGenerator">
-            <img src="https://play-lh.googleusercontent.com/jmA5BawXLFajuevL5fCUL97bMN0YFlZX3TXPQGyGjMPpWEWesMbWXPMXVQmNd6mOY8b6=w480-h960" width="20%" alt=""/><br /><br />QR Reader & Creator</h3>
-        <br />
-        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragodev.QReaderGenerator">
-            <img src="https://lh3.googleusercontent.com/w6moO3VmdtjpKJy3dOR3Gc2M_rAtEJTd3f-QqgTe2YeDhJsjfYKZCa7P0TnOQHcN8w" width="100%" alt="QR creator & reader"/>
-        </a>
-        <br />
-	 <br />
-        <p align="center"><strong>QR reader and creator done with JAVA & PYTHON</strong></p>
-      <p align="center">
-        <strong> Technologies used </strong>
-        <br/><br/>
-        <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a>
-	      <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="java" width="40" height="40"/> </a>
-        <a href="" target="_blank" rel="noreferrer"> <img src="https://uvaciberperiodismo.files.wordpress.com/2019/04/aaaf16bd5ddec.png" alt="XML" width="40" height="40"/> </a>
-        <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://avatars3.githubusercontent.com/u/124156" alt="gradle" width="40" height="40"/> </a>
-      </p>
-      <p align="center">
-        <strong> IDE used </strong>
-        <br/>
-        <img src="https://okhosting.com/resources/uploads/2016/05/Android-Studio.png" width="110">
-      </p>
-      <p align="center">
-    
-  <a href="https://play.google.com/store/apps/details?id=com.dragodev.QReaderGenerator" target="_blank">
-    <img src="https://camo.githubusercontent.com/712df35f3e25540aa2ed66e6f7a138fe71a81f0f2cd8590c691f90e9378e660f/687474703a2f2f646576656c6f7065722e616e64726f69642e636f6d2f696d616765732f6272616e642f656e5f67656e657269635f7267625f776f5f34352e706e67"/>
-  </a>        
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragoadri.alcoapp&hl=es&gl=US">
-            <img align="center" src="https://play-lh.googleusercontent.com/6kEPTjvsi5vSEftWxOkRb7Q7t9e7mrm1LjLCmXvk3kYUf7SnTgEY7a1cxXbd6csg_N4=w240-h480" width="20%" alt="Gasolineras Mas Baratas España"/><br /><br />AFTER PARTY APP</h3>
-        <br />
-        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.dragoadri.alcoapp">
-            <img src="https://lh3.googleusercontent.com/nsmDvRpEJIsMA-eP36Ye_8w_AZ3VULMazQDp_8Xk-ccXr9aPi6kkzlMN-OR-EIMDt08A" width="100%" alt="AfterParty"/>
-        </a>
-        <br />
-	 <br />
-        <p align="center"><strong>Play different games with your friends</strong></p>
-      <p align="center">
-        <strong> Technologies used </strong>
-        <br/><br/>
-        <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a>
-        <a href="" target="_blank" rel="noreferrer"> <img src="https://uvaciberperiodismo.files.wordpress.com/2019/04/aaaf16bd5ddec.png" alt="XML" width="40" height="40"/> </a>
-        <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://avatars3.githubusercontent.com/u/124156" alt="gradle" width="40" height="40"/> </a>
-      </p>
-      <p align="center">
-        <strong> IDE used </strong>
-        <br/>
-        <img src="https://okhosting.com/resources/uploads/2016/05/Android-Studio.png" width="110">
-      </p>
-      <p align="center">
-    
-  <a href="https://play.google.com/store/apps/details?id=com.dragoadri.alcoapp" target="_blank">
-    <img src="https://camo.githubusercontent.com/712df35f3e25540aa2ed66e6f7a138fe71a81f0f2cd8590c691f90e9378e660f/687474703a2f2f646576656c6f7065722e616e64726f69642e636f6d2f696d616765732f6272616e642f656e5f67656e657269635f7267625f776f5f34352e706e67"/>
-  </a>      
-      </p>
-    </td>
-	  <td width="50%" valign="top">
-      <h3 align="center">  <a target="_blank" href="https://play.google.com/store/apps/details?id=com.drago.roadsurvivor">
-            <img align="center" src="https://play-lh.googleusercontent.com/wTzwwBv72EAHPFP0CTyNuUyvKcpyerEuepwZLWxnP_44BndIvVfA3tnacKG6KL0nUt9Z=w480-h960" width="20%" alt="Gasolineras Mas Baratas España"/><br /><br />ROAD SURVIVOR APP</h3>
-        <br />	
-        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.drago.roadsurvivor">
-            <img src="https://lh3.googleusercontent.com/0hjJWWuyvWRyjgWxxBfldKW6vcesrZDo8P90XLBfGilo0MdzPqnYL6mkbGGUfVVmVPOl" width="100%" alt="RoadSurvivor"/>
-        </a>
-        <br />
-	 <br />
-        <p align="center"><strong>Try not to crush! Get coins and buy skins and different items.</strong></p>
-      <p align="center">
-        <strong> Technologies used </strong>
-        <br/><br/>
-        <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a>
-        <a href="" target="_blank" rel="noreferrer"> <img src="https://uvaciberperiodismo.files.wordpress.com/2019/04/aaaf16bd5ddec.png" alt="XML" width="40" height="40"/> </a>
-        <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://avatars3.githubusercontent.com/u/124156" alt="gradle" width="40" height="40"/> </a>
-      </p>
-      <p align="center">
-        <strong> IDE used </strong>
-        <br/>
-        <img src="https://okhosting.com/resources/uploads/2016/05/Android-Studio.png" width="110">
-      </p>
-      <p align="center">
-    
-  <a href="https://play.google.com/store/apps/details?id=com.drago.roadsurvivor" target="_blank">
-    <img src="https://camo.githubusercontent.com/712df35f3e25540aa2ed66e6f7a138fe71a81f0f2cd8590c691f90e9378e660f/687474703a2f2f646576656c6f7065722e616e64726f69642e636f6d2f696d616765732f6272616e642f656e5f67656e657269635f7267625f776f5f34352e706e67"/>
-  </a>        
-      </p>
-    </td>
-  </tr>
-	</table>
+<div align="center">
+<img src="https://i.imgur.com/B6LkIut.png" alt="Dragoadri" height="370" />
+</div>
 
 
-<!-- GO CODE -->
-```python
-import coding
 
-class Attributes:
-	def __init__(self) -> None:
-		coding.get('skills')
-		
-	def contact(self):
-	    email   = "dragoadri@gmail.com"
-	    
-	    return email
+<div align="center">
 
-	def life(self):
-		langs         = ['Spanish', 'English', 'French']
-		nationality = self.langs.remove('French', 'English')
-		birth_year           = '06/30/2000'
-		
-		return langs, nationalities, birth_year
-		
-	def coding(self):
-		langs = {
-			'expert':   ['python','java'],
-			'intermediate': ['sql','javascript','react'],
-			'learning': ['c', 'c#','c++']
-		}
-		specialities  = ['app development', 'python web scratching'. 'backend']
-		environnement = ['vscode', 'pycharm','android studio'.'Eclipse']
-		
-		return langs, specialities, environnement
-		
-	def projects(self):
-		google_play   = ['Party Game', 'Race car game']
-		webSite    = ['selfPortfolio', 'Boostrap templates']
-		MySql = ['Database Apps']
-		
-		
-		return google_play, webSite, MySql
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=760&lines=Computer+Engineer+%E2%80%A2+Madrid%2C+Spain;openpilot+%2F+opendbc+contributor+since+2021;Researcher+%40+SIC-UEM+%E2%80%A2+Incoming+Lecturer+%40+UEM;I+make+cars+drive+themselves.+And+satellites+pay+taxes." alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=dragoadri&label=NEO%20CONNECTIONS&color=00ff41&style=for-the-badge)](https://github.com/dragoadri)
+[![Followers](https://img.shields.io/github/followers/dragoadri?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117)](https://github.com/dragoadri?tab=followers)
+[![Stars](https://img.shields.io/github/stars/dragoadri?label=STARS&style=for-the-badge&color=00ff41&labelColor=0d1117)](https://github.com/dragoadri)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-DragoWB-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://dragoadri.github.io/DragoWB/)
+
+</div>
+
+---
+
+## `>` whoami
+
+```console
+drago@matrix:~$ whoami --verbose
 ```
+
+> **Adrián Cañadas Gallardo** — *"Drago"* · Ingeniero Informático · Madrid, España 🇪🇸
+
+- 🎓 **Graduado en Ingeniería Informática** por la Universidad Europea de Madrid — TFG **9.4/10 (Sobresaliente)**
+- 🧑‍🏫 **Profesor en la UEM** a partir del curso **2026–27** — enseñando lo que llevo haciendo desde 2019 como tutor
+- 🔬 **Investigador** en el grupo **SIC-UEM** (Sistemas Inteligentes de Control)
+- 🚗 **+3 años contribuyendo a [comma.ai/openpilot](https://github.com/commaai/openpilot) y [opendbc](https://github.com/commaai/opendbc)** — control lateral, VW brake/EPB, Ford
+- 🛰️ Construyendo **VIGÍA**: teledetección satelital (Copernicus/Sentinel-2) para recuperación fiscal municipal
+- 📱 **4 apps publicadas en Google Play** con miles de instalaciones
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dragoadri/dragoadri/output/snake.svg" alt="Snake eating my contributions" width="100%" />
+</div>
+
+---
+
+## `>` stack
+
+<div align="center">
+
+**Core**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,dart,flutter,js,ts,react,nodejs&theme=dark&perline=10" />
+</a>
+
+**Backend · Data · Infra**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,postgres,mysql,sqlite,redis,docker,nginx,linux,ubuntu&theme=dark&perline=10" />
+</a>
+
+**AI · Embedded · Tooling**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,arduino,raspberrypi,git,githubactions,bash,vscode,androidstudio&theme=dark&perline=10" />
+</a>
+
+<br/>
+
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
+![ZeroMQ](https://img.shields.io/badge/ZeroMQ-DF0000?style=flat-square&logo=zeromq&logoColor=white)
+![CAN Bus](https://img.shields.io/badge/CAN%20Bus-1a1a1a?style=flat-square&logo=canonical&logoColor=00ff41)
+![Sentinel--2](https://img.shields.io/badge/Copernicus%20Sentinel--2-0B3D91?style=flat-square&logo=esa&logoColor=white)
+![Rhino3D](https://img.shields.io/badge/Rhino%203D%20%2B%20RhinoCommon-801010?style=flat-square&logo=rhinoceros&logoColor=white)
+![Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+
+</div>
+
+---
+
+## `>` projects --featured
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚘 ADRIPILOT
+**Ecosistema para Comma 3X / SunnyPilot**
+
+Firmware + servidor + app móvil para telemetría y control remoto de conducción autónoma. **Trabajo Fin de Grado — 9.4/10.**
+
+- 4 modos de control lateral sobre firmware Comma 3X
+- Backend **Flask + PostgreSQL + MQTT**
+- App **Flutter** con telemetría en tiempo real
+- Validado sobre un **Hyundai Tucson 2022 HEV**
+
+`Python` `C++` `Flutter` `MQTT` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ VIGÍA
+**B2G SaaS de teledetección municipal**
+
+Plataforma multi-vertical que cruza imagen satelital **Sentinel-2 (Copernicus/CDSE)** con catastro para detectar obra y edificación no declarada.
+
+- Recuperación fiscal de **IBI / ICIO**
+- Pipeline de detección de cambios multitemporal
+- Orientado a administraciones locales
+
+`Python` `Sentinel Hub` `GIS` `PostGIS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Set Pro — [setpro.es](https://setpro.es)
+**E-commerce de pádel construido de cero**
+
+- Frontend **React** + backend **Node**
+- Pasarela **Redsys** integrada
+- Dashboard admin con **analítica RFM** y **RBAC**
+- Integración **FTPS** con almacén (Grupo Dictum)
+- Feeds de producto en **Google Merchant Center**
+
+`React` `Node.js` `WooCommerce` `Redsys`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 ORBIT
+**Referencia open-source de telemetría IoV**
+
+Implementación de referencia para *Internet of Vehicles*, base de un **paper académico 2026**.
+
+- Arquitectura de telemetría vehicular abierta
+- Sistema de marca e identidad propio (SVG)
+- Reproducible y documentado
+
+`Python` `MQTT` `IoV` `Research`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🔧 Open Source — comma.ai
+
+<a href="https://github.com/commaai/openpilot/pulls?q=author%3Adragoadri">
+  <img src="https://img.shields.io/badge/commaai%2Fopenpilot-Contributor-00ff41?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+<a href="https://github.com/commaai/opendbc/pulls?q=author%3Adragoadri">
+  <img src="https://img.shields.io/badge/commaai%2Fopendbc-Contributor-00ff41?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+<sub>Lateral acceleration fix · VW brake &amp; EPB improvements · Ford cleanup · +3 años en el repo</sub>
+
+</div>
+
+---
+
+## `>` ls ./google-play
+
+<div align="center">
+
+| App | Qué hace | Stack |
+|:---:|:---|:---:|
+| <a href="https://play.google.com/store/apps/details?id=com.dragodev.gasolinerasbaratasespana"><img src="https://play-lh.googleusercontent.com/v4bdnngi2Pf55CVduHNukqCbS1dzCNNKTLwCYGNJZ7KMvH-SRNRWk1boxuvGUoyreuWW=w480-h960" width="70"/><br/>**Gasolineras Baratas**</a> | Precios de carburante en tiempo real de toda España, ordenados por cercanía y precio | `Java` `XML` `Gradle` |
+| <a href="https://play.google.com/store/apps/details?id=com.dragodev.QReaderGenerator"><img src="https://play-lh.googleusercontent.com/jmA5BawXLFajuevL5fCUL97bMN0YFlZX3TXPQGyGjMPpWEWesMbWXPMXVQmNd6mOY8b6=w480-h960" width="70"/><br/>**QR Reader &amp; Creator**</a> | Lector y generador de códigos QR con historial y exportación | `Java` `Python` `Gradle` |
+| <a href="https://play.google.com/store/apps/details?id=com.dragoadri.alcoapp"><img src="https://play-lh.googleusercontent.com/6kEPTjvsi5vSEftWxOkRb7Q7t9e7mrm1LjLCmXvk3kYUf7SnTgEY7a1cxXbd6csg_N4=w240-h480" width="70"/><br/>**After Party**</a> | Colección de juegos para grupos, con modos y retos aleatorios | `Java` `XML` `Gradle` |
+| <a href="https://play.google.com/store/apps/details?id=com.drago.roadsurvivor"><img src="https://play-lh.googleusercontent.com/wTzwwBv72EAHPFP0CTyNuUyvKcpyerEuepwZLWxnP_44BndIvVfA3tnacKG6KL0nUt9Z=w480-h960" width="70"/><br/>**Road Survivor**</a> | Arcade endless de esquivar tráfico, con monedas, skins e items | `Java` `XML` `Gradle` |
+
+<br/>
+
+<a href="https://play.google.com/store/apps/developer?id=DragoDEV">
+  <img src="https://img.shields.io/badge/Ver%20todas%20en%20Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=00ff41" />
+</a>
+
+</div>
+
+---
+
+## `>` cat drago.py
+
+```python
+from dataclasses import dataclass, field
+
+
+@dataclass(frozen=True)
+class Drago:
+    """github.com/dragoadri — Wake up. The matrix has you."""
+
+    name:     str = "Adrián Cañadas Gallardo"
+    alias:    str = "drago"
+    born:     str = "2000-06-30"
+    location: str = "Madrid, España"
+    email:    str = "dragoadri@gmail.com"
+    site:     str = "https://dragoadri.github.io/DragoWB/"
+
+    spoken: list[str] = field(
+        default_factory=lambda: ["es_ES", "en_US", "fr_FR", "ro_RO (learning)"]
+    )
+
+    roles: list[str] = field(default_factory=lambda: [
+        "Lecturer @ Universidad Europea de Madrid (2026-27)",
+        "Researcher @ SIC-UEM · Intelligent Control Systems",
+        "Open-source contributor @ comma.ai",
+        "Technical founder @ setpro.es",
+    ])
+
+    def code(self) -> dict[str, list[str]]:
+        return {
+            "daily":      ["python", "c", "c++", "dart", "javascript"],
+            "solid":      ["java", "sql", "bash", "react", "node"],
+            "exploring":  ["rust", "cuda", "geospatial ML"],
+        }
+
+    def focus(self) -> list[str]:
+        return [
+            "autonomous driving & vehicle telemetry",
+            "earth observation for public administration",
+            "embedded AI on the edge (Jetson, ESP32)",
+            "teaching people to build the above",
+        ]
+
+    def offline(self) -> list[str]:
+        return ["calisthenics", "dark dubstep", "restoring a 1997 Rover 620 SI"]
+
+    def __repr__(self) -> str:
+        return f"<{self.alias}: still shipping>"
+
+
+if __name__ == "__main__":
+    print(Drago())  # <drago: still shipping>
+```
+
+---
+
+## `>` git log --stat
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dragoadri&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&border_radius=10" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragoadri&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_radius=10" />
+
+<br/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=dragoadri&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=10" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dragoadri&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Matrix" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dragoadri&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
+
+</div>
+
+---
+
+## `>` connect
+
+<div align="center">
+
+<a href="mailto:dragoadri@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" />
+</a>
+<a href="https://dragoadri.github.io/DragoWB/">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00ff41" />
+</a>
+<a href="https://www.linkedin.com/in/dragoadri/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41" />
+</a>
+<a href="https://github.com/dragoadri">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41" />
+</a>
+
+<br/><br/>
+
+> *"There is a difference between knowing the path and walking the path."*
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:003b00,100:0d1117&height=140&section=footer" width="100%" />
+
+</div>
